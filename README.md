@@ -11,7 +11,7 @@ Problem, when hiding and un-hiding forms, they don't seem to reappear properly w
 - run the only test that is present
 
 ### Expected
-- when cypress click back button, 1st orm should re-appear
+- when cypress clicks back button, 1st form should re-appear
 
 ### actual
 - no form is visible
